@@ -14,5 +14,5 @@
 /log/*.log
 /tmp
 
-# gnore products images folder.
+# Ignore products images folder.
 /public/uploads
